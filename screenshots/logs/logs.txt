@@ -1,0 +1,20 @@
+2022-01-19 21:30:27.099 9399-9399/? I/zygote: Late-enabling -Xcheck:jni
+2022-01-19 21:30:27.118 9399-9399/? W/zygote: Unexpected CPU variant for X86 using defaults: x86
+2022-01-19 21:30:27.285 9399-9399/edu.washington.activityspy I/MainActivity: onCreate event fired
+2022-01-19 21:30:27.285 9399-9399/edu.washington.activityspy I/MainActivity: savedInstanceState is null
+2022-01-19 21:30:27.366 9399-9399/edu.washington.activityspy I/MainActivity: onStart event fired
+2022-01-19 21:30:27.370 9399-9399/edu.washington.activityspy I/MainActivity: onResume event fired
+2022-01-19 21:30:27.380 9399-9431/edu.washington.activityspy D/OpenGLRenderer: HWUI GL Pipeline
+2022-01-19 21:30:27.418 9399-9431/edu.washington.activityspy I/zygote: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2022-01-19 21:30:27.418 9399-9431/edu.washington.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+2022-01-19 21:30:27.418 9399-9431/edu.washington.activityspy D/OpenGLRenderer: Swap behavior 1
+2022-01-19 21:30:27.419 9399-9431/edu.washington.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2022-01-19 21:30:27.419 9399-9431/edu.washington.activityspy D/OpenGLRenderer: Swap behavior 0
+2022-01-19 21:30:27.432 9399-9431/edu.washington.activityspy D/EGL_emulation: eglCreateContext: 0xa2205060: maj 3 min 0 rcv 3
+2022-01-19 21:30:27.460 9399-9431/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0xa2205060: ver 3 0 (tinfo 0xa2203270)
+2022-01-19 21:30:27.485 9399-9431/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0xa2205060: ver 3 0 (tinfo 0xa2203270)
+2022-01-19 21:32:53.876 9399-9399/edu.washington.activityspy I/MainActivity: onPause event fired
+2022-01-19 21:32:53.964 9399-9431/edu.washington.activityspy D/EGL_emulation: eglMakeCurrent: 0xa2205060: ver 3 0 (tinfo 0xa2203270)
+2022-01-19 21:32:54.723 9399-9399/edu.washington.activityspy I/MainActivity: onStop event fired
+2022-01-19 21:32:54.724 9399-9399/edu.washington.activityspy I/MainActivity: onDestroy event fired
+2022-01-19 21:32:54.724 9399-9399/edu.washington.activityspy E/MainActivity: We're going down, Captain!
